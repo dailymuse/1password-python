@@ -43,3 +43,7 @@ onepass.get_credentials("GitHub")
 ```
 
 See the [`test.py`](https://github.com/DiljotSG/1password-python/blob/master/test.py) file in this repo for more examples.
+
+## Acknowledgements
+
+Shout-out to [Raquel Thiessen](https://github.com/raquelthiessen) for helping me with the original version of this code.
