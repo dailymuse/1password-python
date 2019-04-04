@@ -42,4 +42,4 @@ and pass it to the constructor of the `OnePass` object. Whatever you prefer.
 onepass.get_credentials("GitHub")
 ```
 
-See the `test.py` file in this repo for more examples.
+See the [`test.py`](https://github.com/DiljotSG/1password-python/blob/master/test.py) file in this repo for more examples.
