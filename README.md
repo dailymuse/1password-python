@@ -5,9 +5,9 @@ A basic wrapper module for the official 1Password command-line tool
 
 This of course, requires that you have the 1Password CLI installed.
 
-* [Installation Instructions](https://support.1password.com/command-line-getting-started/)
-
 * [Download Page](https://app-updates.agilebits.com/product_history/CLI)
+
+* [Installation Instructions](https://support.1password.com/command-line-getting-started/)
 
 Follow the official instructions for installing and setting up the 1Password CLI with your account.
 
@@ -32,7 +32,7 @@ onepass = OnePass()
 This token can be obtained by running `op signin domain --output=raw`.
 
 Alternatively, you can export this session token as an enviroment variable,
-and pass it to the constructor of the OnePass object. Whatever you prefer.
+and pass it to the constructor of the `OnePass` object. Whatever you prefer.
 
 *Note*: These tokens expire after 30 minutes of inactivity.
 
