@@ -28,8 +28,7 @@ class OnePass:
         result = run(
             command,
             text=text,
-            capture_output=True,
-            shell=True
+            capture_output=True
         )
 
         # Return the output
